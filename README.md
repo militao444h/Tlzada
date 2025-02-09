@@ -1,42 +1,38 @@
 <!-- README.md -->
 
-<h1 align="center">Projeto Hacker Style</h1>
+<h1 align="center">ProfessorHz - Full Stack Developer & Designer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/version-1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/age-16-lightgrey" alt="Age">
 </p>
 
 ```bash
-██████╗ ██╗   ██╗ ██████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗
-██╔══██╗██║   ██║██╔═══██╗██║  ██║██╔════╝██╔══██╗████╗  ██║
-██████╔╝██║   ██║██║   ██║███████║███████╗███████║██╔██╗ ██║
-██╔═══╝ ██║   ██║██║   ██║██╔══██║╚════██║██╔══██║██║╚██╗██║
-██║     ╚██████╔╝╚██████╔╝██║  ██║███████║██║  ██║██║ ╚████║
-╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+██████╗ ██████╗  ██████╗ ███████╗ ██████╗ ███████╗███████╗ ██████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██╔═══██╗██╔════╝██╔════╝██╔═══██╗██║  ██║
+██████╔╝██████╔╝██║   ██║███████╗██║   ██║█████╗  █████╗  ██║   ██║███████║
+██╔═══╝ ██╔══██╗██║   ██║╚════██║██║   ██║██╔══╝  ██╔══╝  ██║   ██║██╔══██║
+██║     ██║  ██║╚██████╔╝███████║╚██████╔╝██║     ██║     ╚██████╔╝██║  ██║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝      ╚═════╝ ╚═╝  ╚═╝
 ```
 
-## 🛠 Sobre o Projeto
-Este projeto simula um terminal em modo hacker com ASCII art dinâmica no GitHub.
+## 🛠 Sobre Mim
+Olá! Meu nome é **ProfessorHz**, sou um **Desenvolvedor Full Stack** e **Designer** apaixonado por tecnologia e design. Trabalho com **backend e frontend**, criando interfaces modernas e sistemas eficientes.
 
-## 📜 Como funciona?
-O código abaixo usa JavaScript para animar o ASCII dentro do README:
+## 🚀 Habilidades
+- 🔹 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS
+- 🔹 **Backend:** Node.js, Express, Python, PHP
+- 🔹 **Banco de Dados:** MySQL, MongoDB
+- 🔹 **Design:** Figma, Photoshop, UI/UX
 
-```html
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=18&duration=300&pause=100&color=00FF00&center=true&vCenter=true&lines=Iniciando+hacking...;Acessando+servidores...;Bypassing+firewall...;Extraindo+dados...;Conexão+estabelecida!" alt="hacking">
-</p>
-```
-
-## 🚀 Instalação
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/projeto-hacker.git
-   ```
-2. Abra o README.md no GitHub e veja a animação!
+## 📂 Projetos Destacados
+- 🎨 **UI/UX Design System** - Criando sistemas de design interativos para web
+- 🖥️ **Dashboard Web** - Painel administrativo responsivo e moderno
 
 ## 📞 Contato
-Caso tenha dúvidas ou sugestões, me contate no Discord: **c4ze**.
+Caso tenha dúvidas ou queira trocar uma ideia, me contate:
+- 💬 **Discord:** c7pw
 
 ---
-💻 **Feito por [Seu Nome]**
+💻 **Feito por ProfessorHz**
